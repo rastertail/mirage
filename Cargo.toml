@@ -1,0 +1,11 @@
+[package]
+name = "mirage"
+description = "Virtualize your Vision"
+version = "0.1.0"
+edition = "2021"
+homepage = "https://github.com/rastertail/mirage"
+repository = "https://github.com/rastertail/mirage"
+license = "GPL-3.0-only"
+
+[dependencies]
+gtk4 = "0.4"
